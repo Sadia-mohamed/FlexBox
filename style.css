@@ -1,0 +1,48 @@
+.container{
+    border:5px solid rgb(21, 2, 2);
+    display: inline-flex;
+    flex-wrap:wrap;
+    /* flex-direction: row-reverse; */
+     /* flex-direction: colum; */
+ /* flex-direction: colum-reverse; */
+
+
+
+}
+.box{
+    padding: 30px;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+
+}
+.box-1{
+    background: green;
+}
+.box-2{
+    background: blueviolet;
+}
+.box-3{
+    background: yellow;
+}
+.box-4{
+    background: grey;
+}
+.box-5{
+    background: darkcyan;
+}
+.box-6{
+    background: burlywood;
+}
+.box-7{
+    background:wheat;
+}
+.box-8{
+    background: yellowgreen;
+}
+.box-9{
+    background: greenyellow;
+}
+.box-10{
+    background: orange;
+}
